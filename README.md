@@ -27,6 +27,7 @@
 
 ## 📜 About the Craftsman
 
+```java
 public class TuanTu extends Developer {
 
     public String location  = "Hồ Chí Minh City, Việt Nam 🇻🇳";
