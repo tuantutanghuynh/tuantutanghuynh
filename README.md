@@ -198,46 +198,83 @@ A disciplined, documented journey from Java fundamentals to advanced patterns �
 
 ---
 
-## 🗺️ 2026 Roadmap — The Next Chapters
+## 🗺️ 2026 Roadmap — Brewing the Next Batch
 
-> *Every great coffee has a process. So does every great developer.*
-
-### ☕ Q1 2026 — Perfecting the Current Blend
-> *Finish what's brewing. Ship what's promised.*
-
-- [ ] **cinebook**: Complete Blade → React (Vite) migration with full test coverage
-- [ ] **journo-blog-platform**: Deploy to production (VPS / Laravel Forge), set up CI
-- [ ] **b2b-order-fulfillment-system**: Write API documentation, clean up service layer
-- [ ] **todolistic-app**: Measure and document query performance benchmarks
-- [ ] Write `README` + architecture docs for all 5 pinned projects
+> *2026 is not about collecting new stacks. It's about finishing what's started — and building three projects that actually push the boundary.*
 
 ---
 
-### 🫘 Q2 2026 — Learning a New Grind: Spring Boot
-> *Java backend is the next serious chapter. Build it properly.*
+### 🔧 Phase 1 — Polish the Existing Cups
+> *Good coffee isn't rushed. Neither is good code.*
 
-- [ ] Build a **Spring Boot REST API** project from scratch (CRUD + auth layer)
-- [ ] Implement **JWT authentication with Spring Security** — understand the internals
-- [ ] Practice **service/repository layer patterns** in Java (mirror what I know in Laravel)
-- [ ] Connect Spring Boot API to a **React (Vite) frontend** — first full-stack Java project
-- [ ] Add **Swagger / OpenAPI documentation** to the Spring Boot API
-- [ ] 30+ more Java exercises in `java-algorithms-practice`: concurrency + design patterns
+Before shipping anything new, the existing projects deserve proper care:
 
----
-
-### 🍂 Q3 2026 — Exploring New Beans: Python & NodeJS
-> *Broaden the palette. Different stacks teach different thinking.*
-
-- [ ] Build a **Django REST Framework** API (Python backend project, real use case)
-- [ ] Understand Django ORM vs Eloquent — document the mental model shift
-- [ ] Build a lightweight **NodeJS + Express** service (async patterns, middleware design)
-- [ ] Begin migrating existing React projects to **full TypeScript** (no implicit `any`)
-- [ ] Learn and apply **basic system design patterns**: caching layer, pagination strategy, queue basics
-- [ ] Start a `learning-log` repo — document every new concept with examples
+- [ ] **cinebook**: Complete Blade → React (Vite) migration, write README with architecture notes
+- [ ] **journo-blog-platform**: Deploy to production (VPS / Laravel Forge), document deployment flow
+- [ ] **b2b-order-fulfillment-system**: Clean up service layer, add API documentation (Swagger or Postman)
+- [ ] **todolistic-app**: Document query optimisation decisions, add README
+- [ ] **java-algorithms-practice**: Reach 75+ exercises, cover concurrency & design patterns
 
 ---
 
-### 🏆 Q4 2026 — The Grand Harvest
+### 🚀 Phase 2 — Three New Projects, Three New Levels
+
+---
+
+#### ⭐⭐ &nbsp;[fintrack-expense-api](https://github.com/tuantutanghuynh/fintrack-expense-api) — Consolidate Spring Boot
+> *Known ingredients. Master the recipe.*
+
+The difficulty here isn't the code — it's the discipline of doing Spring Boot *properly* for the first time end-to-end.
+
+- [ ] Spring Boot REST API: expense CRUD with clean service/repository layers
+- [ ] **JWT auth with Spring Security** — understand the filter chain, not just copy-paste
+- [ ] Multi-currency support via external exchange rate API
+- [ ] Scheduled email reports with Spring Scheduler
+- [ ] **Swagger / OpenAPI** documentation — fully testable from the browser
+- [ ] Connect to a React (Vite) frontend — first complete Java full-stack project
+
+`Spring Boot` `Spring Security` `JWT` `MySQL` `React`
+
+---
+
+#### ⭐⭐⭐ &nbsp;[logpilot](https://github.com/tuantutanghuynh/logpilot) — Learn Real-Time & Async
+> *New concept on the menu: WebSocket. Takes 1–2 weeks to steep properly.*
+
+The challenge is **WebSocket + async messaging** — concepts not covered in the Laravel/React stack. Needs focused study before building.
+
+- [ ] Study WebSocket fundamentals + STOMP protocol (1–2 weeks dedicated)
+- [ ] Real-time log streaming via **WebSocket (STOMP)** from Spring Boot to frontend
+- [ ] Multi-app support with **API key isolation** per registered service
+- [ ] Threshold-based alerting: trigger alerts when error rate exceeds defined limits
+- [ ] Async log ingestion — decouple receiving logs from processing them
+- [ ] Inspired by ELK Stack / Datadog — document the architectural decisions
+
+`Spring Boot` `WebSocket` `STOMP` `Async` `MySQL`
+
+---
+
+#### ⭐⭐⭐⭐ &nbsp;[docuparse-api](https://github.com/tuantutanghuynh/docuparse-api) — The Big Leap
+> *FastAPI + LLM + Docker multi-service. Each piece is new. Together, they're the hardest project on the list.*
+
+Three things I haven't shipped together before: **Python FastAPI**, **calling an LLM API**, and **Docker multi-service orchestration**. Each one alone is learnable — combining them is the real challenge.
+
+- [ ] Learn **Python FastAPI** fundamentals (routing, Pydantic models, async endpoints)
+- [ ] Integrate an **LLM API** (OpenAI / Gemini) for document parsing & extraction
+- [ ] Design the document ingestion pipeline: upload → parse → extract → return structured data
+- [ ] **Docker multi-service**: FastAPI + database + (optional) queue worker in one `docker-compose`
+- [ ] Handle large file uploads gracefully — chunked processing, timeout management
+- [ ] Write clear API documentation with example payloads for every endpoint
+
+`Python` `FastAPI` `LLM API` `Docker` `PostgreSQL`
+
+---
+
+> *Three projects. Three difficulty levels. One year to ship them all — properly.*
+
+
+---
+
+### 🏆 4. The Grand Harvest
 > *Connect the dots. Go deeper, not just wider.*
 
 - [ ] Build a **full-stack capstone project**: React + Spring Boot + MySQL — deployed end-to-end
