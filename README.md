@@ -1,96 +1,147 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tăng%20Huỳnh%20Tuấn%20Tú&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%2B%20Spring%20Boot%20%7C%20Building%20Real%20Systems&descAlignY=58&descSize=16&descColor=a78bfa"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Designing+production-grade+APIs;Building+B2B+systems+that+scale;Exploring+AI+integration+in+backend)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:543310,50:74512D,100:AF8F6F&height=220&section=header&text=Tăng%20Huỳnh%20Tuấn%20Tú&fontSize=44&fontColor=F8F4E1&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20Backend-Focused%20%7C%20Laravel%20%C2%B7%20Spring%20Boot%20%C2%B7%20React&descAlignY=58&descSize=15&descColor=F8F4E1"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuantutanghuynh)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IM+Fell+English&weight=400&size=22&pause=1200&color=74512D&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+%E2%80%94+where+backend+meets+clean+UI;Brewing+production-grade+systems+since+day+one;Laravel+%C2%B7+Spring+Boot+%C2%B7+React+(Vite);The+best+code+is+like+good+coffee+%E2%80%94+strong+%26+refined)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/%20LinkedIn-543310?style=for-the-badge&logo=linkedin&logoColor=F8F4E1)](https://www.linkedin.com/in/tangtu/)
+[![Gmail](https://img.shields.io/badge/%20Gmail-74512D?style=for-the-badge&logo=gmail&logoColor=F8F4E1)](mailto:tanghuynhtuantuwork@gmail.com)
+[![YouTube](https://img.shields.io/badge/%20YouTube-AF8F6F?style=for-the-badge&logo=youtube&logoColor=F8F4E1)](https://www.youtube.com/@Tu%E1%BA%A5nT%C3%BAT%C4%83ngHu%E1%BB%B3nh-n2m)
+[![GitHub](https://img.shields.io/badge/%20GitHub-543310?style=for-the-badge&logo=github&logoColor=F8F4E1)](https://github.com/tuantutanghuynh)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-```java
-public class TuanTu extends BackendEngineer {
+*☕ — Welcome to the workshop. Pull up a chair, the code is still brewing. — ☕*
 
-    String location    = "Ho Chi Minh City, Vietnam 🇻🇳";
-    String focus       = "Java · Spring Boot · System Design";
-    String building    = "Production-grade APIs & B2B platforms";
-    String exploring   = "Distributed systems · AI integration · Python";
-    String openTo      = "Remote-first opportunities";
-    String languages[] = { "Vietnamese", "English", "French" };
+</div>
 
-    @Override
-    public String getPhilosophy() {
-        return "Ship systems that solve real problems. Design for scale from day one.";
+---
+
+## 📜 About the Craftsman
+
+```php
+<?php
+
+class TuanTu extends Developer
+{
+    public string $location  = "Hồ Chí Minh City, Việt Nam 🇻🇳";
+    public string $role      = "Full Stack Developer — Backend-Focused";
+    public string $stack     = "Laravel · Spring Boot · React (Vite)";
+    public string $brewing   = "Production-grade APIs & thoughtful UIs";
+    public string $exploring = "System Design · Django · NodeJS · TypeScript";
+    public string $openTo    = "Collaborative projects & remote opportunities";
+    public array  $languages = ["Vietnamese", "English"];
+
+    public function getPhilosophy(): string
+    {
+        return "Write backend that holds. Build frontend that breathes. Ship systems that last.";
     }
 }
 ```
 
+> *I lean backend — architecture, APIs, data modelling — but I also craft the React interfaces that sit on top of them. Full stack in the truest sense: I own both sides of the counter.*
+
 ---
 
-## 🚀 Featured Projects
+## 🫘 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 [petflow-b2b-platform](https://github.com/tuantutanghuynh/petflow-b2b-platform)
-**B2B Order & Inventory Platform** for pet food distribution
+### ☕ [cinebook-movie-booking-system](https://github.com/tuantutanghuynh/cinebook-movie-booking-system)
+**Full-Stack Cinema Booking System**
 
-- 🔀 Dual-backend: **Laravel + Spring Boot** → shared MySQL
-- 🔐 RBAC with 3 roles — admin, sales, warehouse
-- 💳 Credit approval workflow & multi-region pricing
-- ⚛️ React frontend with real-time inventory updates
+A production-grade ticketing platform built around correctness and concurrency. Race-condition handling baked in from day one.
 
-`Spring Boot` `Laravel` `React` `MySQL` `Docker`
+- 🎫 Real-time seat reservation with **race-condition handling**
+- 🔐 Role-based access — admin, staff, customer
+- 💳 Payment flow with full booking lifecycle management
+- ⚛️ Migrating frontend: **Blade → React (Vite)**
+
+`Laravel` `Blade` `React` `MySQL`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 [cinebook-platform](https://github.com/tuantutanghuynh/cinebook-platform)
-**Full-Stack Cinema Booking System**
+### 📓 [journo-blog-platform](https://github.com/tuantutanghuynh/journo-blog-platform)
+**Production-Grade Blog Platform**
 
-- 🎫 Real-time seat reservation with **race-condition handling**
-- 🔐 Role-based access — admin, staff, customer
-- 💳 Payment flow with booking lifecycle management
-- ⚡ Migrating frontend from Blade → React (Vite)
+Built end-to-end: DB schema, UI/UX design, API, and deployment. Documented every architectural decision from zero.
 
-`Laravel` `Blade` `React` `MySQL`
+- 🗄️ Schema design with normalisation & indexing strategy
+- 🎨 UI/UX design → React (Vite) implementation
+- 🔧 Laravel REST API with clean service-layer architecture
+- 📖 Documented: architecture, API design, deployment
+
+`Laravel` `React` `Blade` `MySQL`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💰 [fintrack-expense-api](https://github.com/tuantutanghuynh/fintrack-expense-api) `🔨 In Development`
-**Personal Finance Tracking API**
+### 🏢 [b2b-order-fulfillment-system](https://github.com/tuantutanghuynh/b2b-order-fulfillment-system)
+**B2B Order & Fulfillment Platform**
 
-- 🔐 JWT Auth + Spring Security
-- 🌍 Multi-currency via external rate API
-- 📅 Scheduled email reports (Spring Scheduler)
-- 📄 Swagger UI — fully documented & testable
+A backend-heavy platform tackling the complexity of business ordering flows, inventory management, and multi-role access control.
 
-`Spring Boot` `PostgreSQL` `Flyway` `Docker`
+- 📦 Order lifecycle management with fulfillment tracking
+- 🔐 RBAC with granular permission layers
+- 🧾 Inventory sync and stock validation logic
+- 🔌 Structured REST API for downstream integrations
+
+`Laravel` `MySQL` `PHP`
 
 </td>
 <td width="50%" valign="top">
 
-### 🛩️ [logpilot](https://github.com/tuantutanghuynh/logpilot) `🔨 In Development`
-**Centralized Log Monitoring Service**
+### ✅ [todolistic-app](https://github.com/tuantutanghuynh/todolistic-app)
+**Todo App — Engineered Beyond Basics**
 
-- ⚡ Real-time log streaming via **WebSocket (STOMP)**
-- 🔑 Multi-app support with API key isolation
-- 🚨 Threshold-based alerting system
-- 🏗️ Inspired by ELK Stack / Datadog architecture
+A humble todo app used as a testbed to push Laravel + React patterns — query optimisation, algorithmic thinking, scalable architecture.
 
-`Spring Boot` `WebSocket` `PostgreSQL` `Docker`
+- ⚡ Query optimisation & N+1 elimination
+- 🧠 Algorithmic thinking applied to filtering & sorting
+- 🏗️ Scalable architecture patterns as a living lab
+- 🔬 Performance improvement techniques in practice
+
+`Laravel` `React` `PHP` `MySQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☕ [java-algorithms-practice](https://github.com/tuantutanghuynh/java-algorithms-practice)
+**Structured Java Learning Path**
+
+A disciplined, documented journey from Java fundamentals to advanced patterns — built for depth, not speed.
+
+- 🧱 OOP fundamentals → design patterns → multithreading
+- 📐 Algorithm optimisation with Big-O analysis
+- 🗂️ 50+ exercises with clean separation of concerns
+- 📝 Documented tradeoffs on every non-trivial decision
+
+`Java` `OOP` `Algorithms` `Design Patterns`
+
+</td>
+<td width="50%" valign="top">
+
+<br/>
+<br/>
+
+> *More is on the stove.*
+> 
+> *Next up: a Spring Boot REST project, a Django experiment, and a NodeJS service — each one a new blend to learn from.*
 
 </td>
 </tr>
@@ -98,29 +149,33 @@ public class TuanTu extends BackendEngineer {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ The Toolkit
 
 <div align="center">
 
-**Backend**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-543310?style=for-the-badge&logo=javascript&logoColor=F8F4E1)
+![TypeScript](https://img.shields.io/badge/TypeScript-74512D?style=for-the-badge&logo=typescript&logoColor=F8F4E1)
+![React](https://img.shields.io/badge/React-AF8F6F?style=for-the-badge&logo=react&logoColor=F8F4E1)
+![Vite](https://img.shields.io/badge/Vite-543310?style=for-the-badge&logo=vite&logoColor=F8F4E1)
 
-**Database & DevOps**
+**Backend**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-74512D?style=for-the-badge&logo=php&logoColor=F8F4E1)
+![Laravel](https://img.shields.io/badge/Laravel-543310?style=for-the-badge&logo=laravel&logoColor=F8F4E1)
+![Java](https://img.shields.io/badge/Java-AF8F6F?style=for-the-badge&logo=openjdk&logoColor=F8F4E1)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-74512D?style=for-the-badge&logo=springboot&logoColor=F8F4E1)
+![Python](https://img.shields.io/badge/Python-543310?style=for-the-badge&logo=python&logoColor=F8F4E1)
+![Django](https://img.shields.io/badge/Django-AF8F6F?style=for-the-badge&logo=django&logoColor=F8F4E1)
+![NodeJS](https://img.shields.io/badge/Node.js-74512D?style=for-the-badge&logo=node.js&logoColor=F8F4E1)
+
+**Database & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-543310?style=for-the-badge&logo=mysql&logoColor=F8F4E1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-74512D?style=for-the-badge&logo=postgresql&logoColor=F8F4E1)
+![Git](https://img.shields.io/badge/Git-AF8F6F?style=for-the-badge&logo=git&logoColor=F8F4E1)
+![Postman](https://img.shields.io/badge/Postman-543310?style=for-the-badge&logo=postman&logoColor=F8F4E1)
 
 </div>
 
@@ -130,34 +185,79 @@ public class TuanTu extends BackendEngineer {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuantutanghuynh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuantutanghuynh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=blade"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuantutanghuynh&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true&bg_color=F8F4E1&title_color=543310&icon_color=74512D&text_color=74512D"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuantutanghuynh&layout=compact&theme=gruvbox&hide_border=true&bg_color=F8F4E1&title_color=543310&text_color=74512D&hide=blade"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tuantutanghuynh&theme=tokyonight&hide_border=true&background=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=tuantutanghuynh&theme=gruvbox&hide_border=true&background=F8F4E1&ring=543310&fire=74512D&currStreakLabel=543310&sideLabels=AF8F6F&currStreakNum=74512D&sideNums=74512D&dates=AF8F6F)
 
 </div>
 
 ---
 
-## 🎯 2026 Roadmap
+## 🗺️ 2026 Roadmap — The Next Chapters
 
-```
-Q1 ████████████░░░░  fintrack-expense-api      → Production ready
-Q2 ░░████████████░░  logpilot                  → WebSocket + async
-Q3 ░░░░████████████  docuparse-api             → Spring Boot + Python AI
-Q4 ░░░░░░████████░░  System Design & Cloud     → AWS / distributed systems
-```
+> *Every great coffee has a process. So does every great developer.*
+
+### ☕ Q1 2026 — Perfecting the Current Blend
+> *Finish what's brewing. Ship what's promised.*
+
+- [ ] **cinebook**: Complete Blade → React (Vite) migration with full test coverage
+- [ ] **journo-blog-platform**: Deploy to production (VPS / Laravel Forge), set up CI
+- [ ] **b2b-order-fulfillment-system**: Write API documentation, clean up service layer
+- [ ] **todolistic-app**: Measure and document query performance benchmarks
+- [ ] Write `README` + architecture docs for all 5 pinned projects
+
+---
+
+### 🫘 Q2 2026 — Learning a New Grind: Spring Boot
+> *Java backend is the next serious chapter. Build it properly.*
+
+- [ ] Build a **Spring Boot REST API** project from scratch (CRUD + auth layer)
+- [ ] Implement **JWT authentication with Spring Security** — understand the internals
+- [ ] Practice **service/repository layer patterns** in Java (mirror what I know in Laravel)
+- [ ] Connect Spring Boot API to a **React (Vite) frontend** — first full-stack Java project
+- [ ] Add **Swagger / OpenAPI documentation** to the Spring Boot API
+- [ ] 30+ more Java exercises in `java-algorithms-practice`: concurrency + design patterns
+
+---
+
+### 🍂 Q3 2026 — Exploring New Beans: Python & NodeJS
+> *Broaden the palette. Different stacks teach different thinking.*
+
+- [ ] Build a **Django REST Framework** API (Python backend project, real use case)
+- [ ] Understand Django ORM vs Eloquent — document the mental model shift
+- [ ] Build a lightweight **NodeJS + Express** service (async patterns, middleware design)
+- [ ] Begin migrating existing React projects to **full TypeScript** (no implicit `any`)
+- [ ] Learn and apply **basic system design patterns**: caching layer, pagination strategy, queue basics
+- [ ] Start a `learning-log` repo — document every new concept with examples
+
+---
+
+### 🏆 Q4 2026 — The Grand Harvest
+> *Connect the dots. Go deeper, not just wider.*
+
+- [ ] Build a **full-stack capstone project**: React + Spring Boot + MySQL — deployed end-to-end
+- [ ] Study **System Design fundamentals**: scalability, load balancing, DB indexing, async queues
+- [ ] First **open source contribution** — Laravel, Spring Boot, or a framework I actually use
+- [ ] Study for **AWS Cloud Practitioner** certification (understand the infrastructure I deploy to)
+- [ ] Review all 2026 projects — refactor, document, and write a retrospective on each
+- [ ] Define 2027 roadmap with clearer specialisation direction
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
+<br/>
 
-*"First, solve the problem. Then, write the code."*
+*"The secret of getting ahead is getting started."*
+*— and shipping something real, not just planning forever.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:AF8F6F,50:74512D,100:543310&height=120&section=footer&fontColor=F8F4E1"/>
 
 </div>
