@@ -38,7 +38,7 @@ class TuanTu extends Developer
     public string $brewing   = "Production-grade APIs & thoughtful UIs";
     public string $exploring = "System Design · Django · NodeJS · TypeScript";
     public string $openTo    = "Collaborative projects & remote opportunities";
-    public array  $languages = ["Vietnamese", "English"];
+    public array  $languages = ["Vietnamese", "English", "French"];
 
     public function getPhilosophy(): string
     {
