@@ -1,21 +1,163 @@
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tangtu/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanghuynhtuantuwork@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tăng%20Huỳnh%20Tuấn%20Tú&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%2B%20Spring%20Boot%20%7C%20Building%20Real%20Systems&descAlignY=58&descSize=16&descColor=a78bfa"/>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tuantutanghuynh&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=tuantutanghuynh&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tuantutanghuynh&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Designing+production-grade+APIs;Building+B2B+systems+that+scale;Exploring+AI+integration+in+backend)](https://git.io/typing-svg)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tuantutanghuynh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuantutanghuynh)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=tuantutanghuynh&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+```java
+public class TuanTu extends BackendEngineer {
+
+    String location    = "Ho Chi Minh City, Vietnam 🇻🇳";
+    String focus       = "Java · Spring Boot · System Design";
+    String building    = "Production-grade APIs & B2B platforms";
+    String exploring   = "Distributed systems · AI integration · Python";
+    String openTo      = "Remote-first opportunities";
+    String languages[] = { "Vietnamese", "English", "French" };
+
+    @Override
+    public String getPhilosophy() {
+        return "Ship systems that solve real problems. Design for scale from day one.";
+    }
+}
+```
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 [petflow-b2b-platform](https://github.com/tuantutanghuynh/petflow-b2b-platform)
+**B2B Order & Inventory Platform** for pet food distribution
+
+- 🔀 Dual-backend: **Laravel + Spring Boot** → shared MySQL
+- 🔐 RBAC with 3 roles — admin, sales, warehouse
+- 💳 Credit approval workflow & multi-region pricing
+- ⚛️ React frontend with real-time inventory updates
+
+`Spring Boot` `Laravel` `React` `MySQL` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 [cinebook-platform](https://github.com/tuantutanghuynh/cinebook-platform)
+**Full-Stack Cinema Booking System**
+
+- 🎫 Real-time seat reservation with **race-condition handling**
+- 🔐 Role-based access — admin, staff, customer
+- 💳 Payment flow with booking lifecycle management
+- ⚡ Migrating frontend from Blade → React (Vite)
+
+`Laravel` `Blade` `React` `MySQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 [fintrack-expense-api](https://github.com/tuantutanghuynh/fintrack-expense-api) `🔨 In Development`
+**Personal Finance Tracking API**
+
+- 🔐 JWT Auth + Spring Security
+- 🌍 Multi-currency via external rate API
+- 📅 Scheduled email reports (Spring Scheduler)
+- 📄 Swagger UI — fully documented & testable
+
+`Spring Boot` `PostgreSQL` `Flyway` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛩️ [logpilot](https://github.com/tuantutanghuynh/logpilot) `🔨 In Development`
+**Centralized Log Monitoring Service**
+
+- ⚡ Real-time log streaming via **WebSocket (STOMP)**
+- 🔑 Multi-app support with API key isolation
+- 🚨 Threshold-based alerting system
+- 🏗️ Inspired by ELK Stack / Datadog architecture
+
+`Spring Boot` `WebSocket` `PostgreSQL` `Docker`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Database & DevOps**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuantutanghuynh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuantutanghuynh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=blade"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tuantutanghuynh&theme=tokyonight&hide_border=true&background=0d1117)
+
+</div>
+
+---
+
+## 🎯 2026 Roadmap
+
+```
+Q1 ████████████░░░░  fintrack-expense-api      → Production ready
+Q2 ░░████████████░░  logpilot                  → WebSocket + async
+Q3 ░░░░████████████  docuparse-api             → Spring Boot + Python AI
+Q4 ░░░░░░████████░░  System Design & Cloud     → AWS / distributed systems
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
