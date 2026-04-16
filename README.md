@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=tuantutanghuynh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 [![](https://komarev.com/ghpvc/?username=tuantutanghuynh&icon=0&color=1)](https://visitcount.itsvg.in)
