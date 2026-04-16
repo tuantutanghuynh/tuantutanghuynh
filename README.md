@@ -27,22 +27,19 @@
 
 ## 📜 About the Craftsman
 
-```php
-<?php
+public class TuanTu extends Developer {
 
-class TuanTu extends Developer
-{
-    public string $location  = "Hồ Chí Minh City, Việt Nam 🇻🇳";
-    public string $role      = "Full Stack Developer — Backend-Focused";
-    public string $stack     = "Laravel · Spring Boot · React (Vite)";
-    public string $brewing   = "Production-grade APIs & thoughtful UIs";
-    public string $exploring = "System Design · Django · NodeJS · TypeScript";
-    public string $openTo    = "Collaborative projects & remote opportunities";
-    public array  $languages = ["Vietnamese", "English", "French"];
+    public String location  = "Hồ Chí Minh City, Việt Nam 🇻🇳";
+    public String role      = "Backend Developer — Java & Spring Boot";
+    public String stack     = "Spring Boot · Laravel · React (Vite)";
+    public String brewing   = "Production-grade APIs & scalable systems";
+    public String exploring = "System Design · Python · Distributed Systems";
+    public String openTo    = "Remote-first opportunities";
+    public String[] languages = { "Vietnamese", "English", "French" };
 
-    public function getPhilosophy(): string
-    {
-        return "Write backend that holds. Build frontend that breathes. Ship systems that last.";
+    @Override
+    public String getPhilosophy() {
+        return "Write backend that holds. Build systems that scale. Ship code that lasts.";
     }
 }
 ```
