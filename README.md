@@ -31,7 +31,7 @@
 public class TuanTu extends Developer {
 
     public String location  = "Hồ Chí Minh City, Việt Nam 🇻🇳";
-    public String role      = "Backend Developer — Java & Spring Boot";
+    public String role      = "Backend Developer — PHP, Laravel, Java & Spring Boot";
     public String stack     = "Spring Boot · Laravel · React (Vite)";
     public String brewing   = "Production-grade APIs & scalable systems";
     public String exploring = "System Design · Python · Distributed Systems";
