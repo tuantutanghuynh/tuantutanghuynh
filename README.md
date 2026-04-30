@@ -179,7 +179,7 @@ A disciplined, documented journey from Java fundamentals to advanced patterns â€
 ![Java](https://img.shields.io/badge/Java-AF8F6F?style=for-the-badge&logo=openjdk&logoColor=F8F4E1)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-74512D?style=for-the-badge&logo=springboot&logoColor=F8F4E1)
 ![Python](https://img.shields.io/badge/Python-543310?style=for-the-badge&logo=python&logoColor=F8F4E1)
-![FastAPI](https://img.shields.io/badge/FastAPI-74512D?style=for-the-badge&logo=fastapi&logoColor=F8F4E1)
+![Django](https://img.shields.io/badge/Django-74512D?style=for-the-badge&logo=django&logoColor=F8F4E1)
 
 **Database & Tools**
 
