@@ -172,18 +172,12 @@ A disciplined, documented journey from Java fundamentals to advanced patterns �
 ![React](https://img.shields.io/badge/React-AF8F6F?style=for-the-badge&logo=react&logoColor=F8F4E1)
 ![Vite](https://img.shields.io/badge/Vite-543310?style=for-the-badge&logo=vite&logoColor=F8F4E1)
 
-**Backend — Primary**
+**Backend**
 
 ![PHP](https://img.shields.io/badge/PHP-74512D?style=for-the-badge&logo=php&logoColor=F8F4E1)
 ![Laravel](https://img.shields.io/badge/Laravel-543310?style=for-the-badge&logo=laravel&logoColor=F8F4E1)
-
-**Backend — Growing Deep**
-
 ![Java](https://img.shields.io/badge/Java-AF8F6F?style=for-the-badge&logo=openjdk&logoColor=F8F4E1)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-74512D?style=for-the-badge&logo=springboot&logoColor=F8F4E1)
-
-**Backend — Next**
-
 ![Python](https://img.shields.io/badge/Python-543310?style=for-the-badge&logo=python&logoColor=F8F4E1)
 ![FastAPI](https://img.shields.io/badge/FastAPI-74512D?style=for-the-badge&logo=fastapi&logoColor=F8F4E1)
 
