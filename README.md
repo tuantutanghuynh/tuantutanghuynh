@@ -187,20 +187,6 @@ A disciplined, documented journey from Java fundamentals to advanced patterns â€
 
 ---
 
-## ðŸ“Š GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuantutanghuynh&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true&bg_color=F8F4E1&title_color=543310&icon_color=74512D&text_color=74512D"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuantutanghuynh&layout=compact&theme=gruvbox&hide_border=true&bg_color=F8F4E1&title_color=543310&text_color=74512D&hide=blade"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=tuantutanghuynh&theme=gruvbox&hide_border=true&background=F8F4E1&ring=543310&fire=74512D&currStreakLabel=543310&sideLabels=AF8F6F&currStreakNum=74512D&sideNums=74512D&dates=AF8F6F)
-
-</div>
 
 ---
 
